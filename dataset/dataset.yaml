@@ -1,0 +1,5 @@
+train: C:\\Users\\kavin\\OneDrive\\Documents\\render\\dataset\\images\\train
+val: C:\\Users\\kavin\\OneDrive\\Documents\\render\\dataset\\images\\val
+names:
+  0: bolt
+  1: defect
